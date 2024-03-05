@@ -1,5 +1,7 @@
-GOOGLE DRIVE LINK - [text](https://drive.google.com/file/d/1tjcgkLG0ITPpu8DTR8HLw6H0c31cSixf/view?usp=sharing)
+ # GOOGLE DRIVE LINK
+ [https://drive.google.com/file/d/1tjcgkLG0ITPpu8DTR8HLw6H0c31cSixf/view?usp=sharing](https://drive.google.com/file/d/1tjcgkLG0ITPpu8DTR8HLw6H0c31cSixf/view?usp=sharing)
 
+ 
 # ChatGPT Writer Take-Home Coding Assignment
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with command: `pnpm create plasmo --with-tailwindcss`.
