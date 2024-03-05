@@ -1,6 +1,5 @@
- # GOOGLE DRIVE LINK
- [https://drive.google.com/file/d/1tjcgkLG0ITPpu8DTR8HLw6H0c31cSixf/view?usp=sharing](https://drive.google.com/file/d/1tjcgkLG0ITPpu8DTR8HLw6H0c31cSixf/view?usp=sharing)
-
+ # DEMO VIDEO
+https://drive.google.com/file/d/1tjcgkLG0ITPpu8DTR8HLw6H0c31cSixf/view?usp=sharing
  
 # ChatGPT Writer Take-Home Coding Assignment
 
